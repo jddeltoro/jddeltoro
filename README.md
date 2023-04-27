@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://media.licdn.com/dms/image/C4E03AQGdTYCLo4aq_Q/profile-displayphoto-shrink_200_200/0/1583119751985?e=1687996800&v=beta&t=h03RisLKYjvRm9lMHCjREZpPIp8bUZfpy_98EEDpT_g&label=Profile%20views&color=0e75b6&style=flat" alt="jdiazdeltoro" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdiazdeltoro" alt="jdiazdeltoro" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/jddeltoro" target="blank"><img src="https://img.shields.io/twitter/follow/jdiazdeltoro?logo=twitter&style=for-the-badge" alt="jdiazdeltoro" /></a> </p>
 
 - 🔭 I’m currently working on [Vacasa](https://www.vacasa.com/)
