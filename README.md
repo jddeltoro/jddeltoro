@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jorge D</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="left" style="display: inline-block; width: 100px; height: 100px; border-radius: 50%; overflow: hidden;">
+
   <img src="https://media.licdn.com/dms/image/C4E03AQGdTYCLo4aq_Q/profile-displayphoto-shrink_200_200/0/1583119751985?e=1687996800&v=beta&t=h03RisLKYjvRm9lMHCjREZpPIp8bUZfpy_98EEDpT_g&label=Profile%20views&color=0e75b6&style=flat"
        alt="jdiazdeltoro"
-       style="width: 100%; height: 100%;"
+       style="border-radius: 50%; width: 100px; height: 100px;"
   />
-</p>
+
 
 <p align="left"> <a href="https://twitter.com/jddeltoro" target="blank"><img src="https://img.shields.io/twitter/follow/jdiazdeltoro?logo=twitter&style=for-the-badge" alt="jdiazdeltoro" /></a> </p>
 
