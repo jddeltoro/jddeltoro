@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jorge D</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jdiazdeltoro&label=Profile%20views&color=0e75b6&style=flat" alt="jdiazdeltoro" /> </p>
+<p align="left"> <img src="https://media.licdn.com/dms/image/C4E03AQGdTYCLo4aq_Q/profile-displayphoto-shrink_200_200/0/1583119751985?e=1687996800&v=beta&t=h03RisLKYjvRm9lMHCjREZpPIp8bUZfpy_98EEDpT_g&label=Profile%20views&color=0e75b6&style=flat" alt="jdiazdeltoro" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdiazdeltoro" alt="jdiazdeltoro" /></a> </p>
 
