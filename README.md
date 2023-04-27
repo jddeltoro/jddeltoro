@@ -1,3 +1,34 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile</title>
+    <!-- Include the latest version of Bootstrap CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-pzjw8f+ua7Kw1TIq0v8FqFjcJ6pajs/rfdfs3SO+kD4Ck5BdPtF+to8xM6CU5vX8" crossorigin="anonymous">
+</head>
+<body>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-auto">
+                <p class="text-left">
+                    <img src="https://media.licdn.com/dms/image/C4E03AQGdTYCLo4aq_Q/profile-displayphoto-shrink_200_200/0/1583119751985?e=1687996800&v=beta&t=h03RisLKYjvRm9lMHCjREZpPIp8bUZfpy_98EEDpT_g&label=Profile%20views&color=0e75b6&style=flat" alt="jdiazdeltoro" class="rounded-circle" />
+                </p>
+                <p class="text-left">
+                    <a href="https://twitter.com/jddeltoro" target="blank"><img src="https://img.shields.io/twitter/follow/jdiazdeltoro?logo=twitter&style=for-the-badge" alt="jdiazdeltoro" /></a>
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Include Bootstrap and jQuery (required for Bootstrap) -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSS_GFpoO/ualiHYzU+Lp0s+jlLrD/"+></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js" integrity="sha384-eMNCOe7tC1doHpGoJtKh7z7lGz7fuP4F8nfdFvAOA6Gg/z6Y5J6XqqyGXYM2ntX1" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-pzjw8f+ua7Kw1TIq0v8FqFjcJ6pajs/rfdfs3SO+kD4Ck5BdPtF+to8xM6CU5vX8" crossorigin="anonymous"></script>
+</body>
+</html>
+
 <h1 align="center">Hi 👋, I'm Jorge D</h1>
 <h3 align="center">Software Engineer</h3>
 
