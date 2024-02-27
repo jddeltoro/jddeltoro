@@ -3,12 +3,11 @@
 
 
 <p align="left">
-  <img src="https://media.licdn.com/dms/image/C4E03AQGdTYCLo4aq_Q/profile-displayphoto-shrink_200_200/0/1583119751985?e=1687996800&v=beta&t=h03RisLKYjvRm9lMHCjREZpPIp8bUZfpy_98EEDpT_g&label=Profile%20views&color=0e75b6&style=flat"
+  <img src="https://avatars.githubusercontent.com/u/2736884?v=4"
        alt="jdiazdeltoro"
-       style="width: 100px; height: 100px;border-radius: 50%;"
+       style="width: 100px; height: 100px; border-radius: 50%;"
   />
 </p>
-
 
 
 <p align="left"> 
