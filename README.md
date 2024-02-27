@@ -11,7 +11,11 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/jddeltoro" target="blank"><img src="https://img.shields.io/twitter/follow/jdiazdeltoro?logo=twitter&style=for-the-badge" alt="jdiazdeltoro" /></a> </p>
+<p align="left"> 
+  <a href="https://twitter.com/jddeltoro" target="blank">
+    <img src="https://img.shields.io/twitter/follow/jdiazdeltoro?logo=twitter&style=for-the-badge" alt="jdiazdeltoro" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on [Vacasa](https://www.vacasa.com/)
 
