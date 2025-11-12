@@ -141,7 +141,7 @@ const jorge = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jdiazdeltoro&theme=tokyo-night&hide_border=true&bg_color=1c1917&color=667eea&line=764ba2&point=ffffff" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jddeltoro&theme=tokyo-night&hide_border=true&bg_color=1c1917&color=667eea&line=764ba2&point=ffffff" alt="Contribution Graph"/>
 </div>
 
 <br/>
@@ -182,7 +182,6 @@ const jorge = {
   <img src="https://komarev.com/ghpvc/?username=jdiazdeltoro&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views"/>
 </div>
 
----
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
