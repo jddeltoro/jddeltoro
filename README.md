@@ -14,7 +14,9 @@
   [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Profile-00FF41?style=for-the-badge&logo=stackoverflow&labelColor=161b22&logoColor=00FF41)](https://stackoverflow.com/users/2584120/jorge-diaz)
   
 </div>
-
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</div>
 <br/>
 
 ## ⟩ System.initialize()
