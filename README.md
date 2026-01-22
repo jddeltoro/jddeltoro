@@ -3,55 +3,42 @@
 </div>
 
 <div align="center">
-  
-```
-  ██████╗ ██████╗ ██████╗ ███████╗    ██████╗ ██████╗ ███████╗ █████╗ ████████╗ ██████╗ ██████╗ 
- ██╔════╝██╔═══██╗██╔══██╗██╔════╝   ██╔════╝██╔══██╗██╔════╝██╔══██╗╚══██╔══╝██╔═══██╗██╔══██╗
- ██║     ██║   ██║██║  ██║█████╗     ██║     ██████╔╝█████╗  ███████║   ██║   ██║   ██║██████╔╝
- ██║     ██║   ██║██║  ██║██╔══╝     ██║     ██╔══██╗██╔══╝  ██╔══██║   ██║   ██║   ██║██╔══██╗
- ╚██████╗╚██████╔╝██████╔╝███████╗   ╚██████╗██║  ██║███████╗██║  ██║   ██║   ╚██████╔╝██║  ██║
-  ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝    ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
-```
-
-</div>
-
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/2736884?v=4" width="150px" style="border-radius: 50%; border: 3px solid #00FF41;"/>
+  <a href="https://github.com/jddeltoro">
+    <img src="https://avatars.githubusercontent.com/u/2736884?v=4" width="150" style="border-radius:50%"/>
+  </a>
   
   <br/>
   
-  [![Twitter Follow](https://img.shields.io/twitter/follow/jddeltoro?logo=twitter&style=for-the-badge&color=00FF41&labelColor=0d1117)](https://twitter.com/jddeltoro)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin&labelColor=0d1117)](https://linkedin.com/in/jddeltoro)
-  [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Reputation-00FF41?style=for-the-badge&logo=stackoverflow&labelColor=0d1117)](https://stackoverflow.com/users/2584120/jorge-diaz)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/jddeltoro?logo=x&style=for-the-badge&color=00FF41&labelColor=161b22&logoColor=00FF41)](https://twitter.com/jddeltoro)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin&labelColor=161b22&logoColor=00FF41)](https://linkedin.com/in/jddeltoro)
+  [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Profile-00FF41?style=for-the-badge&logo=stackoverflow&labelColor=161b22&logoColor=00FF41)](https://stackoverflow.com/users/2584120/jorge-diaz)
   
 </div>
 
 <br/>
 
-<div align="center">
-  
-### 〔 System.initialize() 〕
+## ⟩ System.initialize()
 
-```javascript
+```js
 /**
- * @author Jorge Diaz del Toro
+ * @author  Jorge Diaz del Toro
  * @version 2026.01.22
- * @description Full-Stack Software Engineer
+ * @desc    Full-Stack Software Engineer
  */
 
 class Developer {
     constructor() {
-        this.name = "Jorge D";
-        this.title = "Full-Stack Software Engineer";
-        this.location = "🌍 Building the future, one commit at a time";
+        this.name     = "Jorge D";
+        this.title    = "Full-Stack Software Engineer";
+        this.location = "Building the future, one commit at a time";
     }
 
     get skills() {
         return {
-            languages: ["TypeScript", "JavaScript", "Python", "Java", "PHP", "Dart"],
-            focus: ["Cloud Architecture", "Microservices", "DevOps", "Mobile Apps"],
-            challenge: "Constantly learning and adapting to new technologies",
-            funFact: "I debug with console.log and I'm not ashamed 😄"
+            languages : ["TypeScript", "JavaScript", "Python", "Java", "PHP", "Dart"],
+            focus     : ["Cloud Architecture", "Microservices", "DevOps", "Mobile Apps"],
+            challenge : "Constantly learning and adapting to new technologies",
+            funFact   : "I debug with console.log and I'm not ashamed"
         };
     }
 
@@ -67,11 +54,9 @@ class Developer {
 new Developer().execute();
 ```
 
-</div>
-
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Tech Arsenal
+## ⟩ Tech Arsenal
 
 <details open>
 <summary><b>⌨️ Programming Languages</b></summary>
@@ -154,7 +139,7 @@ new Developer().execute();
 
 <br/>
 
-## 📊 GitHub Analytics
+## ⟩ GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jddeltoro&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&ring_color=00FF41"/>
@@ -167,7 +152,7 @@ new Developer().execute();
 
 <br/>
 
-## 🏆 GitHub Trophies
+## ⟩ GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jddeltoro&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
@@ -175,7 +160,7 @@ new Developer().execute();
 
 <br/>
 
-## 📈 Contribution Graph
+## ⟩ Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jddeltoro&theme=github-dark&hide_border=true&bg_color=0d1117&color=00FF41&line=39d353&point=00FF41&area=true&area_color=006d32" alt="Contribution Graph"/>
@@ -183,59 +168,35 @@ new Developer().execute();
 
 <br/>
 
-## 💼 What I'm Working On
+## ⟩ What I'm Working On
 
-```bash
-$ cat ~/current_status.log
+```js
+const currentStatus = {
+    building    : "Scalable microservices architectures",
+    exploring   : "AI/ML integration in modern applications",
+    openTo      : "Collaborate on innovative open-source projects",
+    askMeAbout  : ["React", "Node.js", "Cloud Architecture", "DevOps"],
+    funFact     : "I've worked with 6+ programming languages in production"
+};
 
-> 🔭 Building scalable microservices architectures
-> 🌱 Exploring AI/ML integration in modern applications  
-> 👯 Open to collaborate on innovative open-source projects
-> 💬 Ask me about React, Node.js, Cloud Architecture, or DevOps
-> ⚡ Fun fact: I've worked with 6+ programming languages in production
-
-[STATUS: ONLINE] [UPTIME: ∞] [COFFEE: ████████░░] 80%
+// STATUS: ONLINE | UPTIME: ∞ | COFFEE_LEVEL: 80%
 ```
 
 <br/>
 
-## 🌐 Let's Connect
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                     NETWORK CONNECTIONS                          │
-└──────────────────────────────────────────────────────────────────┘
-```
-  
-[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=00FF41)](https://twitter.com/jddeltoro)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/jddeltoro)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-0d1117?style=for-the-badge&logo=stack-overflow&logoColor=00FF41)](https://stackoverflow.com/users/2584120/jorge-diaz)
-[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=00FF41)](https://fb.com/jdiazdeltoro)
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00FF41)](https://instagram.com/jdiazdeltoro)
-
-</div>
-
-<br/>
-
-## 💭 Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up.&author=Thomas%20Fuchs" alt="Dev Quote"/>
-</div>
-
-<br/>
+## ⟩ Let's Connect
 
 <div align="center">
   
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║  "There is no spoon... only well-structured code." - The Matrix   ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
+[![Twitter](https://img.shields.io/badge/Twitter-161b22?style=for-the-badge&logo=x&logoColor=00FF41)](https://twitter.com/jddeltoro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/jddeltoro)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-161b22?style=for-the-badge&logo=stackoverflow&logoColor=00FF41)](https://stackoverflow.com/users/2584120/jorge-diaz)
+[![Facebook](https://img.shields.io/badge/Facebook-161b22?style=for-the-badge&logo=facebook&logoColor=00FF41)](https://fb.com/jdiazdeltoro)
+[![Instagram](https://img.shields.io/badge/Instagram-161b22?style=for-the-badge&logo=instagram&logoColor=00FF41)](https://instagram.com/jdiazdeltoro)
 
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jdiazdeltoro&label=Profile%20Views&color=00FF41&style=for-the-badge" alt="Profile Views"/>
