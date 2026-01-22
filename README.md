@@ -1,15 +1,28 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Jorge%20D&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Software%20Engineer%20"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003B00,100:00FF41&height=200&section=header&text=Jorge%20D&fontSize=80&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Software%20Engineer&descAlignY=55&descSize=20"/>
 </div>
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/2736884?v=4" width="150px" style="border-radius: 50%;"/>
+  
+```
+  ██████╗ ██████╗ ██████╗ ███████╗    ██████╗ ██████╗ ███████╗ █████╗ ████████╗ ██████╗ ██████╗ 
+ ██╔════╝██╔═══██╗██╔══██╗██╔════╝   ██╔════╝██╔══██╗██╔════╝██╔══██╗╚══██╔══╝██╔═══██╗██╔══██╗
+ ██║     ██║   ██║██║  ██║█████╗     ██║     ██████╔╝█████╗  ███████║   ██║   ██║   ██║██████╔╝
+ ██║     ██║   ██║██║  ██║██╔══╝     ██║     ██╔══██╗██╔══╝  ██╔══██║   ██║   ██║   ██║██╔══██╗
+ ╚██████╗╚██████╔╝██████╔╝███████╗   ╚██████╗██║  ██║███████╗██║  ██║   ██║   ╚██████╔╝██║  ██║
+  ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝    ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
+```
+
+</div>
+
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/2736884?v=4" width="150px" style="border-radius: 50%; border: 3px solid #00FF41;"/>
   
   <br/>
   
-  [![Twitter Follow](https://img.shields.io/twitter/follow/jddeltoro?logo=twitter&style=for-the-badge&color=667eea&labelColor=1c1917)](https://twitter.com/jddeltoro)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-667eea?style=for-the-badge&logo=linkedin&labelColor=1c1917)](https://linkedin.com/in/jddeltoro)
-  [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Reputation-667eea?style=for-the-badge&logo=stackoverflow&labelColor=1c1917)](https://stackoverflow.com/users/2584120/jorge-diaz)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/jddeltoro?logo=twitter&style=for-the-badge&color=00FF41&labelColor=0d1117)](https://twitter.com/jddeltoro)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin&labelColor=0d1117)](https://linkedin.com/in/jddeltoro)
+  [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Reputation-00FF41?style=for-the-badge&logo=stackoverflow&labelColor=0d1117)](https://stackoverflow.com/users/2584120/jorge-diaz)
   
 </div>
 
@@ -17,47 +30,71 @@
 
 <div align="center">
   
-### About Me
+### 〔 System.initialize() 〕
 
-```typescript
-const jorge = {
-    title: "Full-Stack Software Engineer",
-    location: "🌍 Building the future, one commit at a time",
-    code: ["TypeScript", "JavaScript", "Python", "Java", "PHP", "Dart"],
-    focus: ["Cloud Architecture", "Microservices", "DevOps", "Mobile Apps"],
-    challenge: "I'm constantly learning and adapting to new technologies",
-    funFact: "I debug with console.log and I'm not ashamed to admit it 😄"
-};
+```javascript
+/**
+ * @author Jorge Diaz del Toro
+ * @version 2026.01.22
+ * @description Full-Stack Software Engineer
+ */
+
+class Developer {
+    constructor() {
+        this.name = "Jorge D";
+        this.title = "Full-Stack Software Engineer";
+        this.location = "🌍 Building the future, one commit at a time";
+    }
+
+    get skills() {
+        return {
+            languages: ["TypeScript", "JavaScript", "Python", "Java", "PHP", "Dart"],
+            focus: ["Cloud Architecture", "Microservices", "DevOps", "Mobile Apps"],
+            challenge: "Constantly learning and adapting to new technologies",
+            funFact: "I debug with console.log and I'm not ashamed 😄"
+        };
+    }
+
+    execute() {
+        while (this.alive) {
+            this.code();
+            this.learn();
+            this.coffee++;
+        }
+    }
+}
+
+new Developer().execute();
 ```
 
 </div>
 
 <br/>
 
-## 🚀 Tech Arsenal
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Tech Arsenal
 
 <details open>
-<summary><b>💻 Programming Languages</b></summary>
+<summary><b>⌨️ Programming Languages</b></summary>
 <br/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00FF41)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00FF41)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF41)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00FF41)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=00FF41)
+![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=00FF41)
 
 </details>
 
 <details open>
-<summary><b>🎨 Frontend Development</b></summary>
+<summary><b>🖥️ Frontend Development</b></summary>
 <br/>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00FF41)
+![Angular](https://img.shields.io/badge/Angular-0d1117?style=for-the-badge&logo=angular&logoColor=00FF41)
+![Vue.js](https://img.shields.io/badge/Vue.js-0d1117?style=for-the-badge&logo=vue.js&logoColor=00FF41)
+![Ionic](https://img.shields.io/badge/Ionic-0d1117?style=for-the-badge&logo=ionic&logoColor=00FF41)
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=00FF41)
 
 </details>
 
@@ -65,13 +102,13 @@ const jorge = {
 <summary><b>⚙️ Backend Development</b></summary>
 <br/>
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![NuxtJS](https://img.shields.io/badge/Nuxt-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=00FF41)
+![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=00FF41)
+![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=00FF41)
+![Spring](https://img.shields.io/badge/Spring-0d1117?style=for-the-badge&logo=spring&logoColor=00FF41)
+![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=00FF41)
+![Symfony](https://img.shields.io/badge/Symfony-0d1117?style=for-the-badge&logo=symfony&logoColor=00FF41)
+![NuxtJS](https://img.shields.io/badge/Nuxt-0d1117?style=for-the-badge&logo=nuxt.js&logoColor=00FF41)
 
 </details>
 
@@ -79,13 +116,13 @@ const jorge = {
 <summary><b>🗄️ Databases</b></summary>
 <br/>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00FF41)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00FF41)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00FF41)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=00FF41)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=00FF41)
+![MariaDB](https://img.shields.io/badge/MariaDB-0d1117?style=for-the-badge&logo=mariadb&logoColor=00FF41)
+![MSSQL](https://img.shields.io/badge/MSSQL-0d1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=00FF41)
 
 </details>
 
@@ -93,12 +130,12 @@ const jorge = {
 <summary><b>☁️ Cloud & DevOps</b></summary>
 <br/>
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-0d1117?style=for-the-badge&logo=google-cloud&logoColor=00FF41)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00FF41)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=00FF41)
+![Jenkins](https://img.shields.io/badge/Jenkins-0d1117?style=for-the-badge&logo=jenkins&logoColor=00FF41)
+![CircleCI](https://img.shields.io/badge/CircleCI-0d1117?style=for-the-badge&logo=circleci&logoColor=00FF41)
+![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=00FF41)
 
 </details>
 
@@ -106,12 +143,12 @@ const jorge = {
 <summary><b>🧪 Testing & Tools</b></summary>
 <br/>
 
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-0d1117?style=for-the-badge&logo=cypress&logoColor=00FF41)
+![Selenium](https://img.shields.io/badge/Selenium-0d1117?style=for-the-badge&logo=selenium&logoColor=00FF41)
+![Mocha](https://img.shields.io/badge/Mocha-0d1117?style=for-the-badge&logo=mocha&logoColor=00FF41)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00FF41)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=00FF41)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=00FF41)
 
 </details>
 
@@ -120,12 +157,12 @@ const jorge = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jddeltoro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1c1917&title_color=667eea&icon_color=764ba2&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jddeltoro&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1c1917&title_color=667eea&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jddeltoro&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&ring_color=00FF41"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jddeltoro&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jddeltoro&theme=tokyonight&hide_border=true&background=1c1917&stroke=667eea&ring=667eea&fire=764ba2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=764ba2&sideLabels=764ba2&dates=ffffff" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jddeltoro&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=39d353&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00FF41&sideLabels=00FF41&dates=8b949e" alt="GitHub Streak"/>
 </div>
 
 <br/>
@@ -133,7 +170,7 @@ const jorge = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jddeltoro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jddeltoro&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 <br/>
@@ -141,30 +178,42 @@ const jorge = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jddeltoro&theme=tokyo-night&hide_border=true&bg_color=1c1917&color=667eea&line=764ba2&point=ffffff" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jddeltoro&theme=github-dark&hide_border=true&bg_color=0d1117&color=00FF41&line=39d353&point=00FF41&area=true&area_color=006d32" alt="Contribution Graph"/>
 </div>
 
 <br/>
 
 ## 💼 What I'm Working On
 
-- 🔭 Building scalable microservices architectures
-- 🌱 Exploring AI/ML integration in modern applications
-- 👯 Open to collaborate on innovative open-source projects
-- 💬 Ask me about **React, Node.js, Cloud Architecture, or DevOps**
-- ⚡ Fun fact: **I've worked with 6+ programming languages in production**
+```bash
+$ cat ~/current_status.log
+
+> 🔭 Building scalable microservices architectures
+> 🌱 Exploring AI/ML integration in modern applications  
+> 👯 Open to collaborate on innovative open-source projects
+> 💬 Ask me about React, Node.js, Cloud Architecture, or DevOps
+> ⚡ Fun fact: I've worked with 6+ programming languages in production
+
+[STATUS: ONLINE] [UPTIME: ∞] [COFFEE: ████████░░] 80%
+```
 
 <br/>
 
 ## 🌐 Let's Connect
 
 <div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                     NETWORK CONNECTIONS                          │
+└──────────────────────────────────────────────────────────────────┘
+```
   
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jddeltoro)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jddeltoro)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2584120/jorge-diaz)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/jdiazdeltoro)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jdiazdeltoro)
+[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=00FF41)](https://twitter.com/jddeltoro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/jddeltoro)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-0d1117?style=for-the-badge&logo=stack-overflow&logoColor=00FF41)](https://stackoverflow.com/users/2584120/jorge-diaz)
+[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=00FF41)](https://fb.com/jdiazdeltoro)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00FF41)](https://instagram.com/jdiazdeltoro)
 
 </div>
 
@@ -173,18 +222,26 @@ const jorge = {
 ## 💭 Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up.&author=Thomas%20Fuchs" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up.&author=Thomas%20Fuchs" alt="Dev Quote"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jdiazdeltoro&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views"/>
+  
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║  "There is no spoon... only well-structured code." - The Matrix   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jdiazdeltoro&label=Profile%20Views&color=00FF41&style=for-the-badge" alt="Profile Views"/>
 </div>
 
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003B00,100:00FF41&height=120&section=footer"/>
 </div>
-
-
