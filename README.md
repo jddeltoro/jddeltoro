@@ -24,7 +24,7 @@
 ```js
 /**
  * @author  Jorge Diaz del Toro
- * @version 2026.01.22
+ * @version 2021.01.22
  * @desc    Full-Stack Software Engineer
  */
 
